@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @dmiglum
+- 👀 I’m interested in data science and financial markets
